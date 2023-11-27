@@ -1,6 +1,6 @@
 # [Quote Generator](https://georgeoprea1.github.io/quotes-generator/)
 
-![Quote generetor interface image](./Quotes-generator.jpg)
+![Quote generetor interface image](./assets/Quotes-generator.jpg)
 
 #### This exercise is part of the freeCodeCamp curriculum and has the purpose of learning how to make api calls.
 
