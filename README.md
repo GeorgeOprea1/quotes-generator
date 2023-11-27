@@ -2,7 +2,7 @@
 
 ![Quote generetor interface image](./Quotes-generator.jpg)
 
-#### This exercise is part of the free code camp curriculum and has the purpose of learning how to make api calls.
+#### This exercise is part of the freeCodeCamp curriculum and has the purpose of learning how to make api calls.
 
 ## Features
 
