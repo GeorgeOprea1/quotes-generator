@@ -7,8 +7,12 @@ body {
 }
 
 .header {
-  color: #262626;
+  background-color: #262626;
+  color: #fff;
+  width: 100%;
   font-size: calc(1.3rem + 1vw);
+  border-radius: 2rem;
+  border: 8px solid #fff;
 }
 .container {
   width: 95%;
@@ -18,9 +22,7 @@ body {
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
-  background-color: #fff;
-  border-radius: 2rem;
-  border: 10px solid #262626;
+  gap: 1rem;
 }
 
 .main-content {
@@ -30,6 +32,9 @@ body {
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
+  background-color: #fff;
+  border-radius: 2rem;
+  border: 8px solid #262626;
 }
 
 .text-area {
@@ -47,7 +52,7 @@ body {
   font-size: calc(0.6rem + 0.53vw);
   padding: 10px 15px;
   margin-top: 20px;
-  border-radius: 5px;
+  border-radius: 10px;
   cursor: pointer;
 }
 
