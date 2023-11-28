@@ -13,8 +13,8 @@ function getQuotes() {
     contentType: "application/json",
     success: function (result) {
       console.log(result);
-      quote.innerText = result[0].quote;
-      author.innerText = result[0].author;
+      quote.innerText = ` " ${result[0].quote} "`;
+      author.innerText = `- ${result[0].author} -`;
     },
     error: function ajaxError(jqXHR) {
       console.error("Error: ", jqXHR.responseText);
